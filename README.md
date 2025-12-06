@@ -41,18 +41,6 @@ My-Golang-Learning-Journey/
 
 ## Getting Started
 
-### Prerequisites
-
-* [Go](https://go.dev/dl/) installed (any fairly recent version should work, e.g. Go 1.21+)
-* A terminal / command prompt
-* (Optional) An editor like VS Code, GoLand, or any editor with Go support
-
-You can verify your Go installation with:
-
-```bash
-go version
-```
-
 ### Clone the repository
 
 ```bash
